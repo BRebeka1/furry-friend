@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="icon" type="image/jpg" href="images/dogpaw.jfif">
+        <link rel="icon" type="image/jpg" href="dogpaw.jfif">
         <title>Furry Friend</title>
     </head>
     <body id="top">
@@ -29,7 +29,7 @@
     <a href="mailto:boroczky.rebeka@gmail.com">Email</a>
 
      <figure>
-         <img src="images/CuteDog.jpeg" alt="a cute dog on a couch" style="width: 300px;height: 200px;">
+         <img src="CuteDog.jpeg" alt="a cute dog on a couch" style="width: 300px;height: 200px;">
                 <figcaption>I'm just a baby!</figcaption>
             &copy;2024 by Rebeka Böröczky<br>
         <a href="#top">Back to top</a>
